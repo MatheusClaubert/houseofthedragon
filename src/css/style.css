@@ -51,6 +51,7 @@ body {
   height: 300px;
   overflow: auto;
   padding-right: 15px;
+  margin-left: 0;
 }
 .botoes-carrossel {
   display: flex;
